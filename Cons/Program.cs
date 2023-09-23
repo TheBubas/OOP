@@ -6,7 +6,9 @@ namespace Cons
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Booba Booba!\n':)'\n");
+            Console.WriteLine("Booba Booba!\n':)'\n");
+            Console.WriteLine("Booba Booba!\n':)'\n");
         }
     }
 }
