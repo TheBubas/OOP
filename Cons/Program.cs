@@ -7,6 +7,7 @@ namespace Cons
         static void Main(string[] args)
         {
             Console.WriteLine("Hello dungeon master!");
+            Console.WriteLine("Goodbye");
         }
     }
 }
